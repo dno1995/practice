@@ -1,2 +1,2 @@
-This is my readme file \n
+This is my readme file  
 This github stuff can be tricky...
